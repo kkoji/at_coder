@@ -8,6 +8,8 @@ import (
 	"strings"
 )
 
+// C - ABC Tournament
+// https://atcoder.jp/contests/abc188/tasks/abc188_c
 func abc188_c() {
 	var n int
 	fmt.Scanf("%d", &n)

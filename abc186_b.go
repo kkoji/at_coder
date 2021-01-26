@@ -8,6 +8,8 @@ import (
 	"strings"
 )
 
+// B - Blocks on Grid
+// https://atcoder.jp/contests/abc186/tasks/abc186_b
 func abc186_b() {
 	var h, w, minimum int
 	var number_list []int

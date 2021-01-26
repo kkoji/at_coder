@@ -8,6 +8,8 @@ import (
 	"strings"
 )
 
+// B - Orthogonality
+// https://atcoder.jp/contests/abc188/tasks/abc188_b
 func abc188_b() {
 	var n int
 	var a, b []int
